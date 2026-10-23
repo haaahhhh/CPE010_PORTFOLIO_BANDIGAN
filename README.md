@@ -15,4 +15,4 @@ Course Intended Learning Outcomes
  3. Build efficient algorithms based on selected data structures using good programming styles in C++
 
 Topics
- - [Basic C++ Programming](PRELIM/Hands-on Activity 1.1 Basic C++ Programming)
+ - [Basic C++ Programming](CPE010_PORTFOLIO_BANDIGAN/PRELIM/Hands-on Activity 1.1 Basic C++ Programming)
