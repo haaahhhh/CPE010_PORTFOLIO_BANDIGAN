@@ -23,3 +23,12 @@
  - [Queues](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/PRELIM/Hands-on%20Activity%205.1%20Queues)
  ## Midterm
  - [Searching Techniques](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/MIDTERM/Hands-on%20Activity%206.1%20Searching%20Techniques)
+ - [Sorting Algorithms Pt1](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/MIDTERM/Hands-on%20Activity%207.1%20Sorting%20Algorithms%20Pt1)
+ - [Sorting Algorithms Pt2](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/MIDTERM/Hands-on%20Activity%208.1%20Sorting%20Algorithms%20Pt2)
+ - [Tree ADT](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/MIDTERM/Hands-on%20Activity%209.1%20Tree%20ADT)
+## Finals
+ - [Graphs](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/FINALS/Hands-on%20Activity%2010.1%20Graphs)
+ - [Basic Algorithm Analysis](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/FINALS/Hands-on%20Activity%2011.1%20Basic%20Algorithm%20Analysis)
+ - [Algorithmic Strategies](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/FINALS/Hands-on%20Activity%2012.1%20Algorithmic%20Strategies)
+ - [Parallel Algorithms and Multithreading](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/FINALS/Hands-on%20Activity%2013.1%20Parallel%20Algorithms%20and%20Multithreading)
+ - [Algorithm Complexity](https://github.com/haaahhhh/CPE010_PORTFOLIO_BANDIGAN/tree/main/FINALS/Hands-on%20Activity%2014.1%20Algorithm%20Complexity)
